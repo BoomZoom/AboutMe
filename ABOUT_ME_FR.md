@@ -54,5 +54,6 @@ Je suis un programmeur avec un grand intérêt pour les défis techniques et les
 3. La recherche du succès collectif.
 
 ---
+Hi
 
 ![Keep Coding!](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)  
